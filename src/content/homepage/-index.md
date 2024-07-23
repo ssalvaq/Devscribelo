@@ -10,16 +10,14 @@ banner:
 
 # Features
 features:
-  - title: "Como trabajamos en Devscribelo"
-    image: "/images/service-1.png"
-    content: "Devscribelo ofrece una gama completa de soluciones para tus necesidades web, incluyendo páginas web, landings, aplicaciones de gestión y más. Descubre lo que te ofrecemos."
+  - title: "¿Por qué tener una Landing Page?"
+    image: "/images/service-3.png"
+    content: "Una landing page bien diseñada puede aumentar significativamente la conversión de visitantes en clientes potenciales. Aquí algunas razones clave:"
     bulletpoints:
-      - "Páginas personalizables"
-      - "Optimización para una excelente puntuación en Google Pagespeed"
-      - "Desarrollado con Angular, Bootstrap, Astro, HTML, JS y CSS para una apariencia moderna y adaptable"
-      - "Totalmente responsive en todos los dispositivos"
-      - "Optimizado para SEO para mejorar el posicionamiento en buscadores"
-      - "**Código abierto y gratuito para uso personal y comercial**"
+      - "Captura la atención del usuario rápidamente."
+      - "Aumenta la conversión de visitantes en clientes."
+      - "Facilita el seguimiento y análisis de campañas."
+      - "Enfoca el mensaje en un solo objetivo."
     button:
       enable: false
       label: "Get Started Now"
@@ -37,14 +35,16 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Como trabajamos en Devscribelo"
+    image: "/images/service-1.png"
+    content: "Devscribelo ofrece una gama completa de soluciones para tus necesidades web, incluyendo páginas web, landings, aplicaciones de gestión y más. Descubre lo que te ofrecemos."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Páginas personalizables"
+      - "Optimización para una excelente puntuación en Google Pagespeed"
+      - "Desarrollado con Angular, Bootstrap, Astro, HTML, JS y CSS para una apariencia moderna y adaptable"
+      - "Totalmente responsive en todos los dispositivos"
+      - "Optimizado para SEO para mejorar el posicionamiento en buscadores"
+      - "**Código abierto y gratuito para uso personal y comercial**"
     button:
       enable: false
       label: ""
