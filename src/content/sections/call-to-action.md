@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "¿Estás listo para empezar tu Landing Page con nosotros?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Empieza ahora a atraer clientes a tu negocio con una Landing Page profesional y eficaz. Potencia tu presencia en línea con nosotros."
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Cotiza Ahora"
+  link: "https://wa.link/qs34x5"
 ---
