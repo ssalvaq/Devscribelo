@@ -2,7 +2,7 @@
 title: "Hola, somos Devscribelo"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/devscribelo.png"
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: José Chacón
+title: Jose Chacón
 email: jchacon1@unitru.edu.pe
 image: "/images/avatar.png"
 description: this is meta description

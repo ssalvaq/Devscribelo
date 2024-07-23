@@ -1,16 +1,16 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre Nosotros",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Equipo",
+      "url": "/authors"
     },
     {
       "name": "Pages",
@@ -24,10 +24,6 @@
         {
           "name": "Blog",
           "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
         },
         {
           "name": "Categories",

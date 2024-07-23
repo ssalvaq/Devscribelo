@@ -1,5 +1,5 @@
 ---
-title: "Authors"
+title: "Equipo"
 meta_title: ""
-description: "this is meta description"
+description: "Este es nuestro equipo de desarrolladores"
 ---
