@@ -9,7 +9,7 @@ Astroplate es una plantilla de inicio gratuita construida con Astro y TailwindCS
 ## Características
 
 ### ¿Por qué tener una Landing Page?
-![Por qué tener una Landing Page](./images/service-3.png)
+![Por qué tener una Landing Page](./public/images/service-3.png)
 
 Una landing page bien diseñada puede aumentar significativamente la conversión de visitantes en clientes potenciales. Aquí algunas razones clave:
 
