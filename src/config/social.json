@@ -6,8 +6,8 @@
       "link": "https://www.facebook.com/"
     },
     {
-      "name": "twitter",
-      "icon": "FaTwitter",
+      "name": "instagram",
+      "icon": "FaInstagram",
       "link": "https://twitter.com/"
     },
     {
@@ -16,8 +16,8 @@
       "link": "https://www.github.com/"
     },
     {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
+      "name": "whatsapp",
+      "icon": "FaWhatsapp",
       "link": "https://www.linkedin.com/"
     }
   ]

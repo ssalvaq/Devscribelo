@@ -16,3 +16,130 @@
 @layer utilities {
   @import "utilities";
 }
+
+
+$color_1: whitesmoke;
+        $background-color_1: #00ccff;
+        $background-color_2: #5865f2;
+        $background-color_3: #12a50b;
+
+        @keyframes bounce_613 {
+            40% {
+                transform: scale(1.4);
+            }
+            60% {
+                transform: scale(0.8);
+            }
+            80% {
+                transform: scale(1.2);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+        .card {
+            display: flex;
+            height: 70px;
+            width: 270px;
+            position: relative;
+            svg {
+                position: absolute;
+                display: flex;
+                width: 60%;
+                height: 100%;
+                font-size: 24px;
+                font-weight: 700;
+                opacity: 1;
+                transition: opacity 0.25s;
+                z-index: 2;
+                cursor: pointer;
+                transform: scale(1);
+            }
+            .social-link1, .social-link2, .social-link3, .social-link4 {
+                position: relative;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 25%;
+                color: $color_1;
+                font-size: 24px;
+                text-decoration: none;
+                transition: 0.25s;
+                border-radius: 50px;
+                &:hover {
+                    animation: bounce_613 0.4s linear;
+                }
+            }
+            .social-link1:hover {
+                background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+            }
+            .social-link2:hover {
+                background-color: $background-color_1;
+            }
+            .social-link3:hover {
+                background-color: $background-color_2;
+            }
+            .social-link4:hover {
+                background-color: $background-color_3;
+            }
+        }
+
+        .dark .social-link1 svg path {
+            fill: white;
+        }
+
+        .dark .social-link2 svg path {
+            fill: white;
+        }
+
+        .dark .social-link3 svg path {
+            fill: white;
+        }
+
+        .dark .social-link4 svg path {
+            fill: white;
+        }
+
+        .light .social-link1 svg path {
+            fill: black;
+        }
+
+        .light .social-link2 svg path {
+            fill: black;
+        }
+
+        .light .social-link3 svg path {
+            fill: black;
+        }
+
+        .light .social-link4 svg path {
+            fill: black;
+        }
+
+        // Estilos generales para los iconos de redes sociales
+.social-link1 svg path,
+.social-link2 svg path,
+.social-link3 svg path,
+.social-link4 svg path {
+  fill: black; // Valor por defecto para modo claro
+}
+
+// Modo claro
+.light {
+  .social-link1 svg path,
+  .social-link2 svg path,
+  .social-link3 svg path,
+  .social-link4 svg path {
+    fill: black;
+  }
+}
+
+// Modo oscuro
+.dark {
+  .social-link1 svg path,
+  .social-link2 svg path,
+  .social-link3 svg path,
+  .social-link4 svg path {
+    fill: white;
+  }
+}
