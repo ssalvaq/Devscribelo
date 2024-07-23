@@ -1,7 +1,7 @@
 ---
 title: Paolo Leon
 email: pleona1@upao.edu.pe
-image: "/images/avatar.png"
+image: "/images/paolo.jpg"
 description: this is meta description
 social:
   - name: github

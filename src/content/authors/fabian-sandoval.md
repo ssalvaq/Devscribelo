@@ -1,7 +1,7 @@
 ---
 title: Fabian Sandoval
 email: asandovalh1@upao.edu.pe
-image: "/images/avatar.png"
+image: "/images/FabianSandoval.jpg"
 description: this is meta description
 social:
   - name: github
