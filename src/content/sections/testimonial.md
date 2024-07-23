@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Personas que confiaron en nosotros"
+title: "Empresas que confiaron en nosotros"
 description: "Estas son las empresas que confiaron en nosotros para la creación de su pagina web"
 
 # Testimonials
