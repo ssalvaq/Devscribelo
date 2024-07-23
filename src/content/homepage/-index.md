@@ -1,13 +1,13 @@
 ---
-# Banner
 banner:
-  title: "Devscribelo"
+  title: 'De<span class="bg-green-700 text-white rounded px-1">v</span>scribelo'
   content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
   image: "/images/bannerdevs.png"
   button:
     enable: true
     label: "WhatsApp"
     link: "https://wa.link/z0bd9l"
+
 
 # Features
 features:
