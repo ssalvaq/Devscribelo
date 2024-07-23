@@ -1,6 +1,6 @@
 # Devscribelo
 
-![Banner](./images/bannerdevs.png)
+![Banner](./public/images/bannerdevswp.png)
 
 ## ¿Qué es Devscribelo?
 
@@ -19,7 +19,7 @@ Una landing page bien diseñada puede aumentar significativamente la conversión
 - Enfoca el mensaje en un solo objetivo.
 
 ### Descubre las Principales Características de Devscribelo
-![Características de Devscribelo](./images/service-2.png)
+![Características de Devscribelo](./public/images/service-2.png)
 
 En Devscribelo, ofrecemos soluciones innovadoras para el desarrollo web con una variedad de tecnologías y herramientas. Conoce algunas de nuestras características clave que hacen que nuestro servicio sea único:
 
@@ -30,7 +30,7 @@ En Devscribelo, ofrecemos soluciones innovadoras para el desarrollo web con una 
 [Get Started Now](https://github.com/zeon-studio/astroplate)
 
 ### Como trabajamos en Devscribelo
-![Como trabajamos en Devscribelo](./images/service-1.png)
+![Como trabajamos en Devscribelo](./public/images/bannerdevs.png)
 
 Devscribelo ofrece una gama completa de soluciones para tus necesidades web, incluyendo páginas web, landings, aplicaciones de gestión y más. Descubre lo que te ofrecemos:
 
